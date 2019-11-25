@@ -7,7 +7,7 @@ pageEncoding="ISO-8859-1"%>
 
 </head>
 <body>
-Hello ! How are you
+Hello ! How are you doin' mates
 <a href="go">go</a>
 </body>
 </html>
